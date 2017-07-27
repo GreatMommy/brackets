@@ -1,4 +1,4 @@
-Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)
+Welcome to Brackets! [![Build Status](https://travis-ci.org/adobe/brackets.svg?branch=master)](https://travis-ci.org/adobe/brackets)[![DeepScan Grade](https://deepscan.io/api/projects/229/branches/407/badge/grade.svg)](https://deepscan.io/dashboard/#view=project&pid=229&bid=407)
 -------------------
 
 Brackets is a modern open-source code editor for HTML, CSS
